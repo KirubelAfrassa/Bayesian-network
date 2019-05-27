@@ -1097,7 +1097,5 @@ for i=1:N
   CPT3{i}=s.CPT;
 end
 
-
 %showing node 20's learnt parameters
-
 dispcpt(CPT3{20})
