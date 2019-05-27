@@ -1,5 +1,5 @@
-# Bayesian-network Mat Lab implementation of two different models. 
-Firstly, HailFinder2.5 is a Bayesian network that is design for hail forcasting system. Here analyzed is Kevin Murphy's Bayes tool box
+# Bayesian-network Mat Lab implementation of middle sized models. Inference, Parameter learning and reliability analysis. 
+Firstly, HailFinder2.5 is a Bayesian network (56 nodes and 66 edges) that is design for hail forcasting system. Here analyzed is Kevin Murphy's Bayes tool box
 inference algorithms' as well as parameter learning algorithms' accuracy and efficiency.
 
 Secondly a similar implementation is done on illgraen Deecision Graph, which is an Early warning system,
