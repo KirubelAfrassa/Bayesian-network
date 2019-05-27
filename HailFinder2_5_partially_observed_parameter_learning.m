@@ -1,3 +1,8 @@
+%Hailfinder2.5 — a normative system that forecasts severe summer hail in northeastern Colorado 
+%Bayesian network Mat Lab implementation and parameter learning with half of the network nodes hidden
+%network model taken from — Abramson, B., J. Brown, W. Edwards, A. Murphy, R. Winkler. “Hailfinder: A Bayesian system for forecasting severe weather. International Journal of Forecasting”, 1996, pp. 57-72
+%Kirubel Afrassa, 2019 
+
 names = {'10_7muVerMo','234StarFcst','AMCINInScen','AMDewptCalPl','AMInsWliScen','AMInstabMt','AreaMeso_ALS','AreaMoDryAir','Boundaries','CapChange','CapInScen','CldShadeConv','CldShadeOth','CombClouds','CombMoisture','CombVerMo','CompPlFcst','CurPropConv','Date','Dewpoints','IRCloudCover','InsChange','InsInMt','InsSclInScen','Llfr12ZDENSd','LLIW','LatestCIN','LoLevMoistAd','LowLLapse','MeanRH','MidLLapse','MorningBound','MorningCIN','MountainFcst','MvmtFeatures','OutflowFrMt','PlainsFcst','QGVertMotion','R5Fcst','RHRatio','RaoContMoist','SatContMoist','ScenRel3_4','ScenRelAMCIN','ScenRelAMIns','Scenario','ScnRelPlFcst','SfcWndShfDis','SubjVertMo','SynForcng','TempDis','VISCloudCov','WindAloft','WindFieldMt','WindFieldPln','WndHodograph'};
 N = length(names);
 
